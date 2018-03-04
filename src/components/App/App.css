@@ -1,0 +1,14 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+.add-item-form {
+  padding-top: 15px;
+}
+
+.add-discount-form,
+.items-list {
+  margin-top: 30px;
+}
+
+.form-inline .form-group {
+  margin-right: 15px;
+}
